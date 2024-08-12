@@ -1,0 +1,154 @@
+{
+  "phones": [
+    {
+      "id" : 1,
+      "name" : "Xiaomi Redmi Note 13 Pro 4G",
+      "image" : "https://www.startech.com.bd/image/cache/catalog/mobile/xiaomi/redmi-note-13-pro/redmi-note-13-pro-forest-green-500x500.webp",
+      "price" : 28000,
+      "specification" : {
+        "display" : "6.67 AMOLED 120Hz Display",
+        "processor" : "Mediatek Helio G99 Ultra (6nm)",
+        "camera" : "Triple 200+8+2MP on Rear, 16MP Selfie"
+      },
+      "feature" : " IP54, Display Fingerprint, 67W Fast Charging"
+    },
+    
+    {
+        "id" : 2,
+      "name" : "Xiaomi Redmi Note 13 Pro 5G",
+      "image" : "https://www.startech.com.bd/image/cache/catalog/mobile/xiaomi/redmi-note-13-pro-5g/redmi-note-13-pro-5g-active-white-500x500.webp",
+      "price" : 33000,
+      "specification" : {
+        "display" : "6.67 AMOLED 120Hz Dolby Vision Display",
+        "processor" : "Qualcomm SM7435-AB Snapdragon 7s Gen 2 (4nm)",
+        "camera" : "Triple 200+8+2MP on Rear, 16MP Selfie"
+      },
+      "feature" : " IP54, Display Fingerprint, 67W Fast Charging"
+    },
+    
+    {
+        "id" : 3,
+      "name" : "Redmi Note 13 Pro Plus 5G",
+      "image" : "https://www.startech.com.bd/image/cache/catalog/mobile/xiaomi/redmi-note-13-pro-plus-5g/redmi-note-13-pro-plus-5g-aurora-purple-500x500.webp",
+      "price" : 38000,
+      "specification" : {
+        "display" : "6.67 AMOLED Curved Display with 120Hz Refresh Rate",
+        "processor" : "Mediatek Dimensity 7200 Ultra (4 nm)",
+        "camera" : "Triple 200+8+2 MP on Rear, 16 MP Selfie"
+      },
+      "feature" : "IP68, Under Display Fingerprint, 120W Wired Charging"
+    },
+    
+    {
+        "id" : 4,
+      "name" : "Vivo V30 5G",
+      "image" : "https://www.startech.com.bd/image/cache/catalog/mobile/vivo/v30/v30-peacock-green-500x500.webp",
+      "price" : "59990",
+      "specification" : {
+        "display" : "6.78 AMOLED 120Hz 3D Curved Display",
+        "processor" : "Qualcomm Snapdragon 7 Gen 3 (4 nm)",
+        "camera" : "50MP+50MP+2MP on Rear, 50MP on Front"
+      },
+      "feature" : "IP54, Under Display Fingerprint, 80W Fast Charging"
+    },
+    {
+        "id" : 5,
+      "name" : "Vivo V27 5G",
+      "image" : "https://www.startech.com.bd/image/cache/catalog/mobile/vivo/v27-5g/v27-5g-blue-500x500.webp",
+      "price" : 38000,
+      "specification" : {
+        "display" : " 6.78 FHD+ 120Hz AMOLED 3D Curved Display",
+        "processor" : "Mediatek Dimensity 7200 (4 nm)",
+        "camera" : "Triple 50+8+2 MP on Rear, 50MP Front"
+      },
+      "feature" : " In-display Fingerprint, 66W FlashCharge"
+    },
+    
+    {
+        "id" : 6,
+      "name" : "Vivo V27e",
+      "image" : "https://www.startech.com.bd/image/cache/catalog/mobile/vivo/v27e/v27e-lavender-500x500.webp",
+      "price" : 28000,
+      "specification" : {
+        "display" : " 6.62 FHD+ 120Hz AMOLED Display",
+        "processor" : "Mediatek MT8781 Helio G99 (6nm)",
+        "camera" : "Triple 64+2+2 MP on Rear, 32MP Front"
+      },
+      "feature" : "IP54, In-display Fingerprint, 66W FlashCharge"
+    },
+    {
+        "id" : 7,
+      "name" : "Vivo Y36 ",
+      "image" : "https://www.startech.com.bd/image/cache/catalog/mobile/vivo/y36-256/y36-01-500x500.webp",
+      "price" : 15000,
+      "specification" : {
+        "display" : " 6.64 HD+ Eye Protection Screen",
+        "processor" : " Snapdragon 680",
+        "camera" : "50MP + 2MP on Rear, 16MP Front "
+      },
+      "feature" : "5000mAh Battery"
+    },
+    {
+        "id" : 8,
+      "name" : "OnePlus Nord CE4 Lite 5G",
+      "image" : "https://startech.com.bd/image/cache/catalog/mobile/oneplus/nord-ce4-lite/nord-ce4-lite-super-silver-500x500.webp",
+      "price" : 25000,
+      "specification" : {
+        "display" : " 6.67 AMOLED 120Hz Super Bright Display",
+        "processor" : "Qualcomm SM6375 Snapdragon 695 5G (6nm)",
+        "camera" : "Dual 50+2MP on Rear, 16MP on Selfie"
+      },
+      "feature" : " IP54, Display Fingerprint, 80W Fast Charging"
+    },
+    {
+        "id" : 9,
+      "name" : "OnePlus 11 5G",
+      "image" : "https://www.startech.com.bd/image/cache/catalog/mobile/oneplus/11-5g/11-black-500x500.webp",
+      "price" : 60000,
+      "specification" : {
+        "display" : " 6.7 QHD+ 120Hz Super Fluid AMOLED Display",
+        "processor" : "Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm)",
+        "camera" : "Triple 64+48+32 MP on Rear, 16MP Front"
+      },
+      "feature" : "In-display Fingerprint, 100W SUPERVOOC"
+    },
+    {
+        "id" : 10,
+      "name" : "OPPO A58",
+      "image" : "https://www.startech.com.bd/image/cache/catalog/mobile/oppo/a58/a58-01-500x500.webp",
+      "price" : 20000,
+      "specification" : {
+        "display" : "6.72 HD+ Eye Care, Punch-Hole Screen",
+        "processor" : "MediaTek Helio G85",
+        "camera" : "Dual 50+2 MP on Rear, 8MP Front"
+      },
+      "feature" : " IPX4, Side Fingerprint, 33W Fast Charge"
+    },
+    {
+        "id" : 11,
+      "name" : "Infinix Note 30",
+      "image" : "https://www.startech.com.bd/image/cache/catalog/mobile/infinix/note-30/note-30-obsidian-black-500x500.webp",
+      "price" : 20000,
+      "specification" : {
+        "display" : "6.78 FHD+ 120Hz Eye-care Display",
+        "processor" : "Mediatek Helio G99 (6nm)",
+        "camera" : "Triple 64MP Rear, 16MP Front"
+      },
+      "feature" : "IP53, Side Fingerprint, 45W Fast Charge, Type-C"
+    },
+    {
+        "id" : 12,
+      "name" : "Infinix Note 40 Pro",
+      "image" : "https://www.startech.com.bd/image/cache/catalog/mobile/infinix/note-40-pro%20/note-40-pro-011-500x500.webp",
+      "price" : 30910,
+      "specification" : {
+        "display" : "6.78 FHD+ 120Hz AMOLED Display",
+        "processor" : "Mediatek Dimensity 7020 (6 nm)",
+        "camera" : "Triple 108+2MP+2MP Rear, 32MP Front"
+      },
+      "feature" : "Under Display Fingerprint, 45W Fast Charge, IP53"
+    }
+    
+    
+  ]
+}
